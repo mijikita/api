@@ -1,0 +1,16 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "api для сервиса регистрации на stand-up",
+  "main": "index.js",
+  "scripts": {
+  "start": "node index.js",
+  "dev": "nodemone index.js"
+  },
+  "type":"module",
+  "author": "vi",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
